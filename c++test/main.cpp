@@ -8,6 +8,6 @@
 #include <iostream>
 using namespace std;
 int main(int argc, const char * argv[]) {
-    cout << "Hi, I'm Ellie." << endl;
+    cout << "Hi" << endl;
     return 0;
 }
